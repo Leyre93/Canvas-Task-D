@@ -1,4 +1,4 @@
-// Get canvas element and its 2D context
+// Get canvas element in a 2D context
 const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
 
